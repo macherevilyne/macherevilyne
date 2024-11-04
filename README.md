@@ -3,7 +3,7 @@
 <h3> Python web developer</h3>
 
 <div id = "socials" align="center">
-<a href="[linkedin-url](https://www.linkedin.com/in/al-lap/)">
+<a href="https://www.linkedin.com/in/al-lap/">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
