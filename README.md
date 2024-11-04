@@ -20,8 +20,6 @@
 - 📧 Reach me by [Linkedin](https://www.linkedin.com/in/al-lap/), [email](mailto:official.lapunou@gmail.com)
 
 ### Languages and tools
-My technology stack: Python, Django, DRF, API, ORM, OOP, MySQL, PostgreSQL, SQLLite, HTML CSS, Aiogram, Git
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 title ='python' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"        
@@ -44,7 +42,9 @@ title ='bootstrap' width='40' height='40'/>&nbsp;
 title ='git' width='40' height='40'/>&nbsp;
           
           
-## Python:
-
+### Projects
+- [Dashboard](https://github.com/macherevilyne/MySQLtransition)
+- [Telegram bot for buy cars](https://github.com/macherevilyne/parser_av_by) - Python, Aiogram, Docker
+- [Conversion CSV files](https://github.com/macherevilyne/conversion_csv1/tree/master)
 - [Дипломная работа по Python](https://github.com/macherevilyne/kurovaya_new_11.12.22/tree/master)
 
