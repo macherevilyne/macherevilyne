@@ -23,43 +23,25 @@
 My technology stack: Python, Django, DRF, API, ORM, OOP, MySQL, PostgreSQL, SQLLite, HTML CSS, Aiogram, Git
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-title ='python' width='40' height='40'
-/>&nbsp;
-
+title ='python' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"        
-title ='django' width='40' height='40'
-/>&nbsp;
-
+title ='django' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-title ='docker' width='40' height='40'
-/>&nbsp;
-
+title ='docker' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg"       
-title ='drf' width='40' height='40'
-/>&nbsp;
-
+title ='drf' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  
-title ='mysql' width='40' height='40'
-/>&nbsp;
-
+title ='mysql' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-title ='postgresql' width='40' height='40'
-/>&nbsp;
-
-
+title ='postgresql' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"              
-title ='drf' width='40' height='40'
-/>&nbsp;
-
-
+title ='css' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"              
-title ='drf' width='40' height='40'
-/>&nbsp;
-
-
+title ='html' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"                
-title ='drf' width='40' height='40'
-/>&nbsp;
+title ='bootstrap' width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+title ='git' width='40' height='40'/>&nbsp;
           
           
 ## Python:
