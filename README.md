@@ -21,7 +21,9 @@
 
 ### Languages and tools
 My technology stack: Python, Django, DRF, API, ORM, OOP, MySQL, PostgreSQL, SQLLite, HTML CSSA, Aiogram, Git
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 ## Python:
 
 - [Дипломная работа по Python](https://github.com/macherevilyne/kurovaya_new_11.12.22/tree/master)
