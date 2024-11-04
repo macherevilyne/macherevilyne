@@ -20,7 +20,7 @@
 - 📧 Reach me by [Linkedin](https://www.linkedin.com/in/al-lap/), [email](mailto:official.lapunou@gmail.com)
 
 ### Languages and tools
-My technology stack: Python, Django, DRF, API, ORM, OOP, MySQL, PostgreSQL, SQLLite, HTML CSSA, Aiogram, Git
+My technology stack: Python, Django, DRF, API, ORM, OOP, MySQL, PostgreSQL, SQLLite, HTML CSS, Aiogram, Git
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 title ='python' width='40' height='40'
@@ -34,11 +34,32 @@ title ='django' width='40' height='40'
 title ='docker' width='40' height='40'
 />&nbsp;
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg"       
 title ='drf' width='40' height='40'
 />&nbsp;
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  
+title ='mysql' width='40' height='40'
+/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+title ='postgresql' width='40' height='40'
+/>&nbsp;
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"              
+title ='drf' width='40' height='40'
+/>&nbsp;
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"              
+title ='drf' width='40' height='40'
+/>&nbsp;
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"                
+title ='drf' width='40' height='40'
+/>&nbsp;
           
           
 ## Python:
