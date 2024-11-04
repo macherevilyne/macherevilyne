@@ -15,7 +15,8 @@
 - I`m actively learning English
 - I regularly practise my skills in Python
 - Know about my experiences [CV](https://drive.google.com/file/d/1mln80sdLzSzlYScuU-HDmuGX-yb-YTh1/view?usp=sharing)
--:email: Reach me by [Linkedin](https://www.linkedin.com/in/al-lap/), [email](mailto:official.lapunou@gmail.com)
+- :email: Reach me by [Linkedin](https://www.linkedin.com/in/al-lap/), [email](mailto:official.lapunou@gmail.com)
+
 My technology stack: Python, Django, DRF, API, ORM, OOP, MySQL, PostgreSQL, SQLLite, HTML CSSA, Aiogram, Git
 
 
