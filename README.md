@@ -21,7 +21,7 @@
 
 ### Languages and tools
 My technology stack: Python, Django, DRF, API, ORM, OOP, MySQL, PostgreSQL, SQLLite, HTML CSSA, Aiogram, Git
-
+<img src="<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ## Python:
 
