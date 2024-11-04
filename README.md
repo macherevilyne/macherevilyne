@@ -30,9 +30,10 @@ title ='python' width='40' height='40'
 title ='python' width='40' height='40'
 />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
 title ='python' width='40' height='40'
 />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 title ='python' width='40' height='40'
 />
