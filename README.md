@@ -11,9 +11,8 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="linkedin"/>
   </a>
 </div>
-
+<h3>I am currently seeking new career opportunities and am interested in projects involving the development of web and desktop applications, REST API creation and integration, data parsing, and Telegram bot development</h3>
 ### About me
-<h3>I am currently seeking new career opportunities and am interested in projects involving the development of web and desktop applications, REST API creation and integration, data parsing, and Telegram bot development.</h3><br>
 - 🔥 I`m actively learning English
 - 🐍 I regularly practise my skills in Python
 - 🌎 Know about my experiences [CV](https://drive.google.com/file/d/1mln80sdLzSzlYScuU-HDmuGX-yb-YTh1/view?usp=sharing)
