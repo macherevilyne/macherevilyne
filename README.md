@@ -43,8 +43,8 @@ title ='git' width='40' height='40'/>&nbsp;
           
           
 ### Projects
-- [Dashboard](https://github.com/macherevilyne/MySQLtransition)
+- [Dashboard](https://github.com/macherevilyne/MySQLtransition) - Python, Django, MySQL, Pandas
 - [Telegram bot for buy cars](https://github.com/macherevilyne/parser_av_by) - Python, Aiogram, Docker
-- [Conversion CSV files](https://github.com/macherevilyne/conversion_csv1/tree/master)
-- [Дипломная работа по Python](https://github.com/macherevilyne/kurovaya_new_11.12.22/tree/master)
+- [Conversion CSV files](https://github.com/macherevilyne/conversion_csv1/tree/master) - Python, Django, MySQL, Pandas
+- [Дипломная работа по Python](https://github.com/macherevilyne/kurovaya_new_11.12.22/tree/master) - Python, Django
 
