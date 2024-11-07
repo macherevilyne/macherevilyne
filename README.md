@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="linkedin"/>
   </a>
 </div>
-
+<br><br><br>
 
 I am currently seeking new career opportunities and am interested in projects involving the development of web and desktop applications, REST API creation and integration, data parsing, and Telegram bot development
 
